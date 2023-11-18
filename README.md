@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Julian Renzetti
 
+### I’m currently in my first year at UBC in the Bachelor of COmputer Science program
+
 <!--
 **Jrenzet/Jrenzet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
