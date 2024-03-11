@@ -2,7 +2,6 @@
 
 ### I’m currently in my first year at UBC in the Bachelor of Computer Science program
 
-### I’m looking to collaborate on ...
 
 <!--
 **Jrenzet/Jrenzet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
