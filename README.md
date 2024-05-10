@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Julian Renzetti
+### Hi there! 👋 My name is Julian Renzetti.
 
 ### I’m currently in my first year at UBC in the Bachelor of Computer Science program.
 
