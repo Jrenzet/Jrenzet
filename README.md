@@ -8,7 +8,7 @@
 
 ### I have experience with:
 
-* Java
+* ###Java
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
 
