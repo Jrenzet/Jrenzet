@@ -8,7 +8,11 @@
 
 ### I have experience with:
 
-* ###Java
+* Java
+* Python
+* JavaScript
+* React
+* Express.js
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
 
