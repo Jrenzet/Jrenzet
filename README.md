@@ -14,9 +14,7 @@
 * React
 * Express.js
 
-Connect with me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
-
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+Connect with me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
 
 
 <!--
