@@ -16,6 +16,8 @@
 
 Connect with me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
 
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 
 <!--
 **Jrenzet/Jrenzet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
