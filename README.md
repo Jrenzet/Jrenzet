@@ -11,6 +11,7 @@
 * Java
 * Python
 * JavaScript
+* C++
 * React
 * Express.js
 
