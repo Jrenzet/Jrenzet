@@ -2,8 +2,6 @@
 
 ### I’m entering my second year at UBC in the Bachelor of Computer Science second degree program. My first degree was in commerce and I have a background in finance.
 
-### 🔭 Currently searching for an internship in Winter 2025.
-
 ### I enjoy learning new technologies, running, playing basketball, golfing, and discovering new music.
 
 ### I have experience with:
