@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Julian Renzetti.
 
-### I’m entering my second year at UBC in the Bachelor of Computer Science second degree program. My first degree was in commerce and I have a background in finance.
+### I’m currently studying at UBC in the Bachelor of Computer Science second degree program. My first degree was in commerce and I have a background in finance.
 
 ### I enjoy learning new technologies, running, playing basketball, golfing, and discovering new music.
 
