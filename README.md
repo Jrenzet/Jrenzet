@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Julian Renzetti.
 
-### I’m currently studying at UBC in the Bachelor of Computer Science second degree program. My first degree was in commerce and I have a background in finance.
+### I’m a student at UBC in the Bachelor of Computer Science second degree program, graduating August 2026. My first degree was in commerce and I have a background in finance. I have two technical internships under my belt and am currently looking for full time opportunities for September 2026.
 
 ### I enjoy learning new technologies, running, playing basketball, golfing, and discovering new music.
 
@@ -9,7 +9,7 @@
 * Python
 * Kotlin
 * Java
-* JavaScript
+* TypeScript
 
 Connect with me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
 
