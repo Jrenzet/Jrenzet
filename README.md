@@ -2,7 +2,7 @@
 
 ### I’m a student at UBC in the Bachelor of Computer Science second degree program, graduating August 2026. My first degree was in commerce and I have a background in finance. I have two technical internships under my belt and am currently looking for full time opportunities for September 2026.
 
-### I enjoy learning new technologies, running, playing basketball, golfing, and discovering new music.
+### I enjoy learning new technologies, running, and playing basketball.
 
 ### I have experience with:
 
