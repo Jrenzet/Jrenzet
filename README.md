@@ -7,8 +7,7 @@
 ### I have experience with:
 
 * Python
-* Kotlin
-* Java
+* Kotlin/Java
 * TypeScript
 
 Connect with me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
