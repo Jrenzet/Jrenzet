@@ -12,6 +12,7 @@
 * TypeScript
 
 Connect with me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julian-renzetti)
+
 Check out my personal website: [Julian's Portfolio](https://portfolio-git-main-julians-projects-27c65218.vercel.app/)
 
 <!--
